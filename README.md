@@ -10,6 +10,6 @@
 
    `source ~/.zshrc`
 
-3. access
+3. Access🦀
    <br />
    [localhost:8080](http://localhost:8080/)
