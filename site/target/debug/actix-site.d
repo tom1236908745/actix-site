@@ -1,0 +1,1 @@
+/Users/nakayamatomoki/Desktop/rusty/actix-site/site/target/debug/actix-site: /Users/nakayamatomoki/Desktop/rusty/actix-site/site/src/main.rs /Users/nakayamatomoki/Desktop/rusty/actix-site/site/static/welcome.html
